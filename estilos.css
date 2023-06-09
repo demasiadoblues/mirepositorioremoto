@@ -39,11 +39,15 @@ body {
 li>a {
     padding: 8px 24px;
     text-decoration: none;
+    
 }
 
 a {
     color: white;
-    text-decoration: none;
+    list-style: none;
+    border: solid 1px black;
+    border-radius: 10px;
+    margin:2px;
 }
  
 a:hover {
