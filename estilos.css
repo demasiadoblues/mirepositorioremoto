@@ -38,6 +38,7 @@ body {
 
 li>a {
     padding: 8px 24px;
+    text-decoration: none;
 }
 
 a {
